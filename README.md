@@ -62,7 +62,7 @@ $ pip install -r requirements.txt
 - 🛠️ `services`: API services and helpers
 - ⚙️ `vite.config.ts`, `tailwind.config.ts`: Project configuration files
 
-## 🖼️ Scre
+## 🖼️ ScreenShot
 ![Screenshot 2025-04-11 125603](https://github.com/user-attachments/assets/5854586b-6842-4569-9b9f-fce986b9c2d6)
 enshots
 ![Screenshot 2025-04-11 125613](https://github.com/user-attachments/assets/f0bcb9e3-cf4e-4874-9c7b-b45ac0b53268)
