@@ -62,6 +62,17 @@ $ pip install -r requirements.txt
 - 🛠️ `services`: API services and helpers
 - ⚙️ `vite.config.ts`, `tailwind.config.ts`: Project configuration files
 
+## 🖼️ Scre
+![Screenshot 2025-04-11 125603](https://github.com/user-attachments/assets/5854586b-6842-4569-9b9f-fce986b9c2d6)
+enshots
+![Screenshot 2025-04-11 125613](https://github.com/user-attachments/assets/f0bcb9e3-cf4e-4874-9c7b-b45ac0b53268)
+![Screenshot 2025-04-11 125620](https://github.com/user-attachments/assets/fcfe8e30-4728-4824-8c14-d0b76da8be4f)
+![Screenshot 2025-04-11 125628](https://github.com/user-attachments/assets/f9589678-5560-4637-b562-df5b537b73d1)
+
+
+
+> 📸 *Add your screenshots to `.github/assets/` or any public image host and replace the links above.*
+
 ## 🔮 Future Improvements
 
 - [ ] Convert the backend into a REST API using **FastAPI**
@@ -70,10 +81,8 @@ $ pip install -r requirements.txt
 
 ## 👨‍💻 Authors
 
-- [Aayush]
-- [Vineet Sahoo]
-- [Aradhaya Rahul Pandey]
-- [Bharat Chandra]
+- [Aayush](https://github.com/ninja2005)
+- [Vineet Sahoo](https://github.com/Vineetsahoo)
 
 ## 📝 License
 
