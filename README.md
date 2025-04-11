@@ -81,8 +81,11 @@ enshots
 
 ## 👨‍💻 Authors
 
-- [Aayush](https://github.com/ninja2005)
-- [Vineet Sahoo](https://github.com/Vineetsahoo)
+- [Aayush]
+- [Vineet Sahoo]
+- [Aradhaya Pandey]
+- [Bharat Chandra]
+- 
 
 ## 📝 License
 
